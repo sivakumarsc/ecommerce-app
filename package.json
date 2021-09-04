@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce-app",
+  "version": "1.0.0",
+  "description": "Ecommerce app based on MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivakumarsc/ecommerce-app.git"
+  },
+  "author": "Sivakumar S C",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sivakumarsc/ecommerce-app/issues"
+  },
+  "homepage": "https://github.com/sivakumarsc/ecommerce-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
